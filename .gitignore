@@ -1,0 +1,4 @@
+# Database exports and local data files (review before committing)
+*.log
+.DS_Store
+Thumbs.db

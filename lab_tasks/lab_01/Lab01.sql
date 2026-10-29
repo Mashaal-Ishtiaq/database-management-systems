@@ -1,0 +1,10 @@
+--select * from employees
+--select employee_id, first_name from employees;
+--select employee_id, first_name from employees where salary > 2300;
+--select employee_id, first_name from employees where salary > 2300 and salary<8000;
+--select  first_name, salary, salary + 300 from employees;
+--select  first_name, salary, salary + 300 from employees;
+--select  first_name, salary, salary + 300, 12 * salary + 300 from employees;
+--select  first_name, salary, salary + 300, 12 * (salary + 300) from employees;
+--select first_name, salary , commission_pct from EMPLOYEES;
+--select first_name, salary , commission_pct * salary from EMPLOYEES;
